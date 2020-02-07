@@ -1,7 +1,5 @@
 # Illumio Coding Challenge by Travis Yu
-# Contact Info:
-# traviszirongyu@gmail.com
-# 916-607-5596
+
 
 I manually tested my solution with the boundaries listed in the input.
 
